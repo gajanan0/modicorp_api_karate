@@ -1,13 +1,72 @@
 {
-  "utilityType":
-    {"Mobile": ["Vi", "BSNL", "Airtel", "Jio", "TATA", "Other"],
-    "Landline": ["Vi", "BSNL", "Airtel", "Jio", "TATA", "Other"],
-    "Broadband": ["Vi", "BSNL", "Airtel", "Jio", "TATA", "Other"],
-    "Data": ["Vi", "BSNL", "Airtel", "Jio", "TATA", "Other"],
-    "DTH": ["DishTV", "Airtel", "Jio", "TATA", "Other"],
-    "Electricity": ["MSEDCL", "RJDCL", "AdaniPower", "TATAPower", "Other"],
-    "Gas": ["BPCL", "IOCL", "HPCL", "MNGL", "Other"],
-    "Water": ["BMC", "PMC", "PCMC", "KDMC", "Other"],
-    "Insurance": ["HDFCLife", "AegonLife", "SBILife", "TATAAIA", "ICICIPruLife", "Other"]
-}
+  "utilityType": {
+    "Broadband": [
+      "Vi",
+      "BSNL",
+      "Airtel",
+      "Jio",
+      "TATA",
+      "Other"
+    ],
+    "DTH": [
+      "DishTV",
+      "Airtel",
+      "Jio",
+      "TATA",
+      "Other"
+    ],
+    "Data": [
+      "Vi",
+      "BSNL",
+      "Airtel",
+      "Jio",
+      "TATA",
+      "Other"
+    ],
+    "Electricity": [
+      "MSEDCL",
+      "RJDCL",
+      "AdaniPower",
+      "TATAPower",
+      "Other"
+    ],
+    "Gas": [
+      "BPCL",
+      "IOCL",
+      "HPCL",
+      "MNGL",
+      "Other"
+    ],
+    "Insurance": [
+      "HDFCLife",
+      "AegonLife",
+      "SBILife",
+      "TATAAIA",
+      "ICICIPruLife",
+      "Other"
+    ],
+    "Landline": [
+      "Vi",
+      "BSNL",
+      "Airtel",
+      "Jio",
+      "TATA",
+      "Other"
+    ],
+    "Mobile": [
+      "Vi",
+      "BSNL",
+      "Airtel",
+      "Jio",
+      "TATA",
+      "Other"
+    ],
+    "Water": [
+      "BMC",
+      "PMC",
+      "PCMC",
+      "KDMC",
+      "Other"
+    ]
+  }
 }

@@ -8,11 +8,11 @@ function fn() {
   var config = {
     env: env,
 	myVarName: 'someValue',
-	baseUrl= 'https://reqres.in/api/users/2'
+	baseUrl= 'https://modicorp.biller.com'
   }
  if (env == 'dev') {
 
-  } else if (env == 'e2e') {
+  } else if (env == 'qa') {
 
   }
   return config;
