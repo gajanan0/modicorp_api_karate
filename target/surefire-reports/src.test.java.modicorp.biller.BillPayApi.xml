@@ -1,0 +1,18 @@
+<testsuite failures="1" name="src/test/java/modicorp/biller/BillPayApi.feature" skipped="0" tests="1" time="0.063782">
+  <testcase classname="src.test.java.modicorp.biller.BillPayApi" name="testing the customer is able to make successful bill payment for valid details" time="0.063782">
+    <failure message="BillPayApi.feature:17 - url not set, please refer to the keyword documentation for 'url'">* def requestJSON = read("classpath:TestData.json") ....................... passed
+* set requestJSON.customerID = 1234567890 ................................. passed
+* set requestJSON.utilityType = 'Electricity' ............................. passed
+* set requestJSON.utilityBiller = 'MSEDCL' ................................ passed
+* set requestJSON.billAmount = 1000 ....................................... passed
+* request requestJSON ..................................................... passed
+* print requestJSON.utilityType ........................................... passed
+When method POST .......................................................... failed
+
+Stack Trace:
+com.intuit.karate.exception.KarateException: BillPayApi.feature:17 - url not set, please refer to the keyword documentation for 'url'&#13;
+	at ✽.When method POST (BillPayApi.feature:17)&#13;
+
+Then status 201 ........................................................... skipped</failure>
+  </testcase>
+</testsuite>

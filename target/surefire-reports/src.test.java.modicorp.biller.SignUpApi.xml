@@ -1,0 +1,12 @@
+<testsuite failures="1" name="src/test/java/modicorp/biller/SignUpApi.feature" skipped="0" tests="1" time="0.004571">
+  <testcase classname="src.test.java.modicorp.biller.SignUpApi" name="testing the customer signup with invalid email address" time="0.004571">
+    <failure message="SignUpApi.feature:7 - javascript evaluation failed: baseurl, ReferenceError: &quot;baseurl&quot; is not defined in &lt;eval&gt; at line number 1">Given url baseurl ......................................................... failed
+
+Stack Trace:
+com.intuit.karate.exception.KarateException: SignUpApi.feature:7 - javascript evaluation failed: baseurl, ReferenceError: "baseurl" is not defined in &lt;eval&gt; at line number 1&#13;
+	at ✽.Given url baseurl (SignUpApi.feature:7)&#13;
+
+When method GET ........................................................... skipped
+Then status 200 ........................................................... skipped</failure>
+  </testcase>
+</testsuite>

@@ -1,0 +1,77 @@
+21:48:41.685 [main]  INFO  com.intuit.karate - Karate version: 1.3.1
+21:48:42.672 [main]  ERROR com.intuit.karate - src/test/java/modicorp/BillPayApi.feature:4
+* def requestJSON = read('src/test/resources/TestData.json')
+js failed:
+>>>>
+01: read('src/test/resources/TestData.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: java.io.FileNotFoundException: C:\Users\bhandari_g\IdeaProjects\ModiCorpAPITest\src\test\java\modicorp\src\test\resources\TestData.json (The system cannot find the path specified)
+- com.intuit.karate.resource.FileResource.getStream(FileResource.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:99)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:95)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:54)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:120)
+- <js>.:program(Unnamed:1)
+
+src/test/java/modicorp/BillPayApi.feature:4
+21:48:42.683 [main]  ERROR com.intuit.karate - src/test/java/modicorp/BillPayApi.feature:4
+* def requestJSON = read('src/test/resources/TestData.json')
+js failed:
+>>>>
+01: read('src/test/resources/TestData.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: java.io.FileNotFoundException: C:\Users\bhandari_g\IdeaProjects\ModiCorpAPITest\src\test\java\modicorp\src\test\resources\TestData.json (The system cannot find the path specified)
+- com.intuit.karate.resource.FileResource.getStream(FileResource.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:99)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:95)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:54)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:120)
+- <js>.:program(Unnamed:1)
+
+src/test/java/modicorp/BillPayApi.feature:4
+21:48:42.690 [main]  ERROR com.intuit.karate - src/test/java/modicorp/BillPayApi.feature:4
+* def requestJSON = read('src/test/resources/TestData.json')
+js failed:
+>>>>
+01: read('src/test/resources/TestData.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: java.io.FileNotFoundException: C:\Users\bhandari_g\IdeaProjects\ModiCorpAPITest\src\test\java\modicorp\src\test\resources\TestData.json (The system cannot find the path specified)
+- com.intuit.karate.resource.FileResource.getStream(FileResource.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:99)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:95)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:54)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:120)
+- <js>.:program(Unnamed:1)
+
+src/test/java/modicorp/BillPayApi.feature:4
+21:48:42.697 [main]  ERROR com.intuit.karate - src/test/java/modicorp/BillPayApi.feature:4
+* def requestJSON = read('src/test/resources/TestData.json')
+js failed:
+>>>>
+01: read('src/test/resources/TestData.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: java.io.FileNotFoundException: C:\Users\bhandari_g\IdeaProjects\ModiCorpAPITest\src\test\java\modicorp\src\test\resources\TestData.json (The system cannot find the path specified)
+- com.intuit.karate.resource.FileResource.getStream(FileResource.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:99)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:95)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:54)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:120)
+- <js>.:program(Unnamed:1)
+
+src/test/java/modicorp/BillPayApi.feature:4
+21:48:42.706 [main]  ERROR com.intuit.karate - src/test/java/modicorp/BillPayApi.feature:4
+* def requestJSON = read('src/test/resources/TestData.json')
+js failed:
+>>>>
+01: read('src/test/resources/TestData.json')
+<<<<
+org.graalvm.polyglot.PolyglotException: java.io.FileNotFoundException: C:\Users\bhandari_g\IdeaProjects\ModiCorpAPITest\src\test\java\modicorp\src\test\resources\TestData.json (The system cannot find the path specified)
+- com.intuit.karate.resource.FileResource.getStream(FileResource.java:98)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsStream(ScenarioFileReader.java:99)
+- com.intuit.karate.core.ScenarioFileReader.readFileAsString(ScenarioFileReader.java:95)
+- com.intuit.karate.core.ScenarioFileReader.readFile(ScenarioFileReader.java:54)
+- com.intuit.karate.core.ScenarioEngine.lambda$new$0(ScenarioEngine.java:120)
+- <js>.:program(Unnamed:1)
+
+src/test/java/modicorp/BillPayApi.feature:4
+21:48:43.427 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/java/modicorp/BillPayApi.feature

@@ -1,0 +1,66 @@
+22:49:13.970 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+22:49:14.042 [print] Electricity
+22:49:14.046 url not set, please refer to the keyword documentation for 'url'
+22:49:14.046 http request failed: url not set, please refer to the keyword documentation for 'url'
+oadband": [
+    "Vi",
+    "BSNL",
+    "Airtel",
+    "Jio",
+    "TATA",
+    "Other"
+  ],
+  "Data": [
+    "Vi",
+    "BSNL",
+    "Airtel",
+    "Jio",
+    "TATA",
+    "Other"
+  ],
+  "DTH": [
+    "DishTV",
+    "Airtel",
+    "Jio",
+    "TATA",
+    "Other"
+  ],
+  "Electricity": [
+    "MSEDCL",
+    "RJDCL",
+    "AdaniPower",
+    "TATAPower",
+    "Other"
+  ],
+  "Gas": [
+    "BPCL",
+    "IOCL",
+    "HPCL",
+    "MNGL",
+    "Other"
+  ],
+  "Water": [
+    "BMC",
+    "PMC",
+    "PCMC",
+    "KDMC",
+    "Other"
+  ],
+  "Insurance": [
+    "HDFCLife",
+    "AegonLife",
+    "SBILife",
+    "TATAAIA",
+    "ICICIPruLife",
+    "Other"
+  ]
+}
+
+7w%3D%3D"}],"group":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+

@@ -1,0 +1,11 @@
+<testsuite failures="1" name="src/test/java/modicorp/biller/CustomerRegistrationApi.feature" skipped="0" tests="1" time="0.00577">
+  <testcase classname="src.test.java.modicorp.biller.CustomerRegistrationApi" name="abc" time="0.00577">
+    <failure message="CustomerRegistrationApi.feature:10 - javascript evaluation failed: baseUrl, ReferenceError: &quot;baseUrl&quot; is not defined in &lt;eval&gt; at line number 1">* def x = baseUrl ......................................................... failed
+
+Stack Trace:
+com.intuit.karate.exception.KarateException: CustomerRegistrationApi.feature:10 - javascript evaluation failed: baseUrl, ReferenceError: "baseUrl" is not defined in &lt;eval&gt; at line number 1&#13;
+	at ✽.* def x = baseUrl (CustomerRegistrationApi.feature:10)&#13;
+
+* print x ................................................................. skipped</failure>
+  </testcase>
+</testsuite>

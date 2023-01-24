@@ -1,0 +1,30 @@
+{
+  "customer": {
+    "101": {
+      "emailAddress": "101@xyz.com",
+      "addAmount": 10000,
+      "billAmount": 5000
+    },
+    "102": {
+      "emailAddress": "102@xyz.com"
+    },
+    "103": {
+      "emailAddress": "103@xyz.com"
+    },
+    "104": {
+      "emailAddress": "104@xyz.com"
+    },
+    "105": {
+      "emailAddress": "105@xyz.com"
+    },
+    "106": {
+      "emailAddress": "106@xyz.com"
+    },
+    "107": {
+      "emailAddress": "107@xyz.com"
+    },
+    "108": {
+      "emailAddress": "108@xyz.com"
+    }
+  }
+}
